@@ -1,4 +1,4 @@
-#                                                                                 Hi 👋 I'm Ateeb Ahmad
+# &nbspHi 👋 I'm Ateeb Ahmad
 
 # 💫 About Me:
 I am a final-year Computer Science student 🎓 with a passion for deep learning and artificial intelligence. My academic journey has been fueled by a profound interest in staying up-to-date on the latest advancements in Generative AI like Transformers and Generative Adversarial Networks (GANs) 💡. Throughout my academic tenure, I have honed my skills in deep learning, leveraging my extensive experience in utilizing PyTorch for a myriad of <br>tasks. <br><br>But wait, there's more! 📝 I'm not just a tech enthusiast – I'm also a part-time content writer, adding a creative twist to my tech journey! Let's explore the realms of both logic and imagination. 🌐✨
